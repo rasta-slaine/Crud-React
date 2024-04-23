@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nathan",
+      "username": "na",
+      "email": "quiknathan7@gmail.com",
+      "phone": "1199456356",
+      "website": "gdhddhl.com"
+    },
+    {
+      "id": 2,
+      "name": "yuyrb",
+      "username": "tuyjd",
+      "email": "gasvgshs@gmail.com",
+      "phone": "1199456356",
+      "website": "fsfsl.com"
+    },
+    {
+      "id": "c3f7",
+      "name": "yousf",
+      "email": "yousaf@gmail.com",
+      "phone": "1247479595"
+    }
+  ]
+}
